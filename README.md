@@ -1,7 +1,5 @@
 ### Hi there, I'm [fantasticit!](https://coding.fantasticit.vercel.app/) 👋
 
-<br />
-
 Hi, I'm fantasticit, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on [coding](https://github.com/fantasticit/coding)
