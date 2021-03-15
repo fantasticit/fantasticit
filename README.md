@@ -16,6 +16,7 @@
 
 #### 主要工作
 
+- 2019~2020: [拼多多](https://mms.pinduoduo.com/)
 - 2018~2019: 奇虎360，2D图表开发，[qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
 
 
