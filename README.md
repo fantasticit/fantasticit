@@ -16,7 +16,6 @@
 
 #### 工作经历
 
-- 2020~至今: 阿里巴巴
 - 2019~2020: [拼多多](https://mms.pinduoduo.com/)
 - 2018~2019: 奇虎360，2D图表开发，[qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
 
