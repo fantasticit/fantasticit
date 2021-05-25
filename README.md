@@ -2,9 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fantasticit)
 
-- 小镇失败做题家
-- 代码一般工程师
-- 生活忙碌鞭尸中
+欢迎查看[我的博客](https://blog.wipi.tech/)。
 
 **Languages and Tools:**  
 
@@ -16,6 +14,7 @@
 
 #### 工作经历
 
+- 2021~2021: 阿里巴巴
 - 2019~2020: [拼多多](https://mms.pinduoduo.com/)
 - 2018~2019: 奇虎360，2D图表开发，[qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
 
