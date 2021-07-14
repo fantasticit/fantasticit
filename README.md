@@ -12,11 +12,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-#### 工作经历
+#### 项目经验
 
-- 2021~2021: 阿里巴巴
-- 2019~2020: [拼多多](https://mms.pinduoduo.com/)
-- 2018~2019: 奇虎360，2D图表开发，[qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
+- [qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
 
 <a href="https://github.com/fantasticit/coding">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=fantasticit&show_icons=true&include_all_commits=true&theme=radical" alt="fantasticit's github stats" />
