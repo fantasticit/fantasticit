@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fantasticit)
 
-欢迎访问[我的博客](https://blog.wipi.tech/)。
+欢迎访问[我的博客](https://think.wipi.tech/share/wiki/e3cc4f5f-915d-4f4c-ad74-21d50c5f8be6)。
 
 **Languages and Tools:**  
 
