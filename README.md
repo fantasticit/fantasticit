@@ -4,6 +4,8 @@
 
 欢迎访问[我的博客](https://blog.wipi.tech)。
 
+如果有南京的工作机会，欢迎与我联系。
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
