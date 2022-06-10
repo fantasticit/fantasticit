@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fantasticit)
 
-欢迎访问[我的博客](https://blog.wipi.tech)。
+欢迎访问[我的博客](https://think.codingit.cn/share/wiki/c843041c-add5-4be8-b33e-990b0fb45a5c)。
 
 如果有南京的工作机会，欢迎与我联系。
 
