@@ -1,6 +1,6 @@
 ### Hi there, I'm [fantasticit!](https://coding.fantasticit.vercel.app/) 👋
 
-# 坐标上海，已被裁员，要找工作，有需要的大佬欢迎联系。
+# 坐标上海，要找工作，有需要的大佬欢迎联系。
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fantasticit)
 
