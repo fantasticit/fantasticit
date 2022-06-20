@@ -14,9 +14,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-#### 项目经验
+#### 开源项目
 
-- [qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
+- 可视化开发：[qcharts](https://www.qcharts.cn/#/home)、[ppt](https://ppt.baomitu.com/d/cd9ad5f1#/)
 
 <a href="https://github.com/fantasticit/coding">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=fantasticit&show_icons=true&include_all_commits=true&theme=radical" alt="fantasticit's github stats" />
