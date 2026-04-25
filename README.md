@@ -1,6 +1,6 @@
 ### Hi there, I'm [fantasticit!](https://coding.fantasticit.vercel.app/) 👋
 
-可接付费咨询，付费开发，有意微信联系，微信同名。
+微信同名。
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/fantasticit)
 
